@@ -44,6 +44,8 @@ document.getElementById("pwd-confirm").onkeyup = function()
         word_pass_confirm.style.backgroundColor = "red"
 }
 
+/* Ex4 */
+
 document.getElementById("toggle-darkmode").onchange = function()
 {
     let toggle = document.getElementById("toggle-darkmode")
